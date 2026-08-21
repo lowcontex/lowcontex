@@ -2,12 +2,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:3776AB&height=180&section=header&text=Michael%20Josh%20Rodriguez&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%C2%B7%20Full-Stack%20(Web%20%26%20Desktop)&descAlignY=58&descSize=18" />
-
-<a href="https://github.com/lowcontex">
-  <img src="https://avatars.githubusercontent.com/u/282426978?s=400&u=a7653de0c701a918c3ae60b0972b7eff028db52a&v=4" width="150" alt="avatar"
-       style="border-radius:50%; border:4px solid #61DAFB; box-shadow:0 0 24px rgba(97,218,251,0.6);" />
-</a>
-
 <br/><br/>
 
 <a href="https://github.com/lowcontex">
