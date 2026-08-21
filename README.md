@@ -17,7 +17,7 @@
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -62,7 +62,7 @@
       <a href="https://github.com/lowcontex/epetcare"><b>View repo →</b></a>
     </td>
     <td width="33%" valign="top">
-      <h3>🏗️ construction-appointment-web</h3>
+      <h3> construction-appointment-web</h3>
       <sub><b>Appointment Scheduling App</b></sub><br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -72,7 +72,7 @@
       <a href="https://github.com/lowcontex/construction-appointment-web"><b>View repo →</b></a>
     </td>
     <td width="33%" valign="top">
-      <h3>🐕 corgi-apps (CorgiNite)</h3>
+      <h3> corgi-apps (CorgiNite)</h3>
       <sub><b>Desktop Utility</b></sub><br/><br/>
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -86,7 +86,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats-seven-tau-58.vercel.app/api?username=lowcontex&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=3776AB&text_color=c9d1d9&bg_color=0d1117" width="48%" />
@@ -101,7 +101,7 @@
 
 <br/>
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 <div align="center">
 
@@ -112,7 +112,7 @@
 
 <br/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
