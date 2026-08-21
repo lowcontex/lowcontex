@@ -7,7 +7,12 @@
 <a href="https://github.com/lowcontex">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=I+build+production-grade+web+%26+desktop+apps;Django+%C2%B7+React+%C2%B7+Electron+%C2%B7+PostgreSQL;AI-Assisted+Development+Workflow;Shipping+real+projects%2C+not+just+demos" alt="Typing SVG" />
 </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:61DAFB&height=160&section=header&text=Michael%20Josh%20Rodriguez&fontSize=36&fontColor=ffffff&animation=twinkling" />
 
+<a href="https://github.com/lowcontex">
+  <img src="https://avatars.githubusercontent.com/u/USERID?v=4" width="160" alt="avatar"
+       style="border-radius:50%; border:4px solid #61DAFB; box-shadow:0 0 24px rgba(97,218,251,0.6);" />
+</a>
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-lowcontex-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lowcontex)
