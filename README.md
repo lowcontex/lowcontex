@@ -1,3 +1,7 @@
+Certainly! Below is a more professional and modern version of your README profile, without AI emojis:
+
+---
+
 <div align="center">
 
 <img src="https://github.com/lowcontex.png" width="150" style="border-radius:50%" />
@@ -18,17 +22,16 @@ Building practical web & software applications by combining core programming fun
 
 ### 🛠️ Tech Stack & Ecosystem
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-AI--Assisted_Dev-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)] 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)] 
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)] 
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)] 
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)] 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)] 
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)] 
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)] 
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)] 
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)] 
 
 ---
 
@@ -52,3 +55,4 @@ Desktop utility app with a custom batch installer script using winget with a Cho
 <img src="https://github-readme-stats-seven-tau-58.vercel.app/api?username=lowcontex&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-stats-seven-tau-58.vercel.app/api/top-langs/?username=lowcontex&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
+---
