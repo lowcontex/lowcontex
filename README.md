@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:203A43,100:0F2027&height=120&section=header" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:3776AB&height=180&section=header&text=Michael%20Josh%20Rodriguez&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%C2%B7%20Full-Stack%20(Web%20%26%20Desktop)&descAlignY=58&descSize=18" />
