@@ -49,5 +49,6 @@ Desktop utility app with a custom batch installer script using winget with a Cho
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lowcontex&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowcontex&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-seven-tau-58.vercel.app/api?username=lowcontex&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-seven-tau-58.vercel.app/api/top-langs/?username=lowcontex&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
