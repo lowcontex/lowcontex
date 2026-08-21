@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:61DAFB&height=160&section=header&text=Michael%20Josh%20Rodriguez&fontSize=36&fontColor=ffffff&animation=twinkling" />
 
 <a href="https://github.com/lowcontex">
-  <img src="https://avatars.githubusercontent.com/u/USERID?v=4" width="160" alt="avatar"
+  <img src="[https://avatars.githubusercontent.com/u/USERID?v=4](https://avatars.githubusercontent.com/u/282426978?s=400&u=a7653de0c701a918c3ae60b0972b7eff028db52a&v=4)" width="160" alt="avatar"
        style="border-radius:50%; border:4px solid #61DAFB; box-shadow:0 0 24px rgba(97,218,251,0.6);" />
 </a>
 
