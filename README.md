@@ -1,7 +1,6 @@
 <div align="center">
 
 <a href="https://github.com/lowcontex">
-       style="border-radius:50%; border:4px solid #61DAFB; box-shadow:0 0 24px rgba(97,218,251,0.6);" />
 </a>
 <br/>
 <a href="https://github.com/lowcontex">
